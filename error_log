@@ -1,0 +1,6 @@
+[01-Jul-2019 04:34:46 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home1/paulzhao/api.flexinc.us/application/controllers/api/Driver.php on line 90
+[01-Jul-2019 04:55:31 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home1/paulzhao/api.flexinc.us/application/helpers/api_helper.php on line 17
+[02-Jul-2019 09:50:59 America/Chicago] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM) in /home1/paulzhao/api.flexinc.us/application/controllers/Driver.php on line 51
+[02-Jul-2019 09:51:29 America/Chicago] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM) in /home1/paulzhao/api.flexinc.us/application/controllers/Driver.php on line 51
+[02-Jul-2019 09:51:35 America/Chicago] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM) in /home1/paulzhao/api.flexinc.us/application/controllers/Driver.php on line 51
+[02-Jul-2019 09:51:38 America/Chicago] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM) in /home1/paulzhao/api.flexinc.us/application/controllers/Driver.php on line 51
